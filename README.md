@@ -1,6 +1,6 @@
 ## Notas
 ## Descripcion de Proyecto
-Proyecto realizado en javaScript. 
+Proyecto realizado en javaScript y LocalStorage. https://onofredavila.github.io/Notas/
 
 Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
